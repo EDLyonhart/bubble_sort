@@ -2,6 +2,12 @@
 
 ## Learning Objectives
 * Describe how a Bubble Sort is performed and its time complexity
+    Bubble Sort compares two elements in an array and determins which is larger.
+    If the larger is 'on the left', it swaps them.
+    If the larger is 'on the right', it moves on.
+    This process is repeated til every set of two elements has the larger element 'on the right.'
+
+    
 * Implement a sorting algorithm in ruby
 * Offer a solution to optimize the algorithm
 
